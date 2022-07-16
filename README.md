@@ -1,6 +1,6 @@
 #              Gesture Themes
 
-# Customize Android Gesture Pill
+# Customize Android gesture pill
 
 # Themes
 - Size and thickness of MIUI, OxygenOS, MyUX and Pixel
