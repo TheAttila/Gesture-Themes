@@ -3,7 +3,7 @@
 # Customize Android gesture pill
 
 # Themes
-- Size and thickness of MIUI, OxygenOS, MyUX and Pixel
+- Size and thickness of MIUI, OxygenOS, MyUX, MyUX_V2, NothingOS and Pixel
 - 11 Colors available so far
 
 # Suport 
@@ -17,7 +17,7 @@
 - Download the module 
 - Flash in magisk and follow the instructions
 - Reboot
-- Note: The names at the end of modules "MIUI", "OxygenOS", "MyUX" and "Pixel" Refers to the theme style, this module does not support thesen OEM  
+- Note: The names at the end of modules "MIUI", "OxygenOS", "MyUX", "Nothing" and "Pixel" Refers to the theme style, this module does not support thesen OEM  
 
 # Thanks
 - [Zackptg5](https://github.com/Zackptg5) for the MMT-Ex template
