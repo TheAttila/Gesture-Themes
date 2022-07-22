@@ -26,6 +26,9 @@ ui_print "9- MIUI Purple"
 ui_print "10- MIUI Raspberry"
 ui_print "11- MIUI Red"
 ui_print "12- MIUI Yellow"
+ui_print "13- MIUI Cyan"
+ui_print "14- MIUI Deep Purple"
+ui_print "15- MIUI Light Blue"
 ui_print ""
 ui_print "------------------------------------------"
 ui_print ""
@@ -42,7 +45,7 @@ if $VKSEL; then
 	else 
 		break
 	fi
-if [ $G -gt 12 ]; then
+if [ $G -gt 15 ]; then
 		G=1
 	fi
   done
@@ -59,6 +62,9 @@ case $G in
  10 ) GT="MIUI Raspberry"; cp -rf "$MODPATH"/mods/MIUIRaspberry.apk "$MODPATH"/system/product/overlay;;
  11 ) GT="MIUI Red"; cp -rf "$MODPATH"/mods/MIUIRed.apk "$MODPATH"/system/product/overlay;;
  12 ) GT="MIUI Yellow"; cp -rf "$MODPATH"/mods/MIUIYellow.apk "$MODPATH"/system/product/overlay;;
+ 13 ) GT="MIUI Cyan"; cp -rf "$MODPATH"/mods/MIUICyan.apk "$MODPATH"/system/product/overlay;;
+ 14 ) GT="MIUI Deep Purple"; cp -rf "$MODPATH"/mods/MIUIDeepPurple.apk "$MODPATH"/system/product/overlay;;
+ 15 ) GT="MIUI Light Blue"; cp -rf "$MODPATH"/mods/MIUILightBlue.apk "$MODPATH"/system/product/overlay;;
 esac
 
 ui_print "Selected: $G"
