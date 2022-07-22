@@ -3,8 +3,8 @@
 # Customize Android gesture pill
 
 # Themes
-- Size and thickness of MIUI, OxygenOS, MyUX, MyUX_V2, NothingOS and Pixel
-- 11 Colors available so far
+- Size and thickness of Custom, MIUI, OxygenOS, MyUX, MyUX_V2, NothingOS and Pixel
+- 15 Colors available so far
 
 # Suport 
 - Only AOSP Roms 
