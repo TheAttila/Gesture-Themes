@@ -23,3 +23,8 @@
 - [Zackptg5](https://github.com/Zackptg5) for the MMT-Ex template
 - [Topjohnwu](https://github.com/topjohnwu) for creating the magisk
 - [DanGLES3](https://github.com/DanGLES3) by inspiration
+
+# Changelog
+## V1.1
+- Added cyan, light blue and deep purple colors
+- Added Custom Theme. Now available 23 options to change size and thickness 
