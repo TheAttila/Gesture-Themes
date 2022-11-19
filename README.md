@@ -14,3 +14,6 @@
 - Custom, MIUI, MyUX, MyUX_V2, NothingOS, OxygenOS, Pixel(Standard in Q/S)
 
 # Screenshots
+<p align="left">
+  <img src="https://github.com/TheAttila/Gesture-Themes/blob/master/screenshots/1.png"
+</p>
