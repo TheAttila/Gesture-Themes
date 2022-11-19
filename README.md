@@ -11,7 +11,7 @@
 - Reboot
 
 # Themes
-- Custom, MIUI, MyUX, MyUX_V2, NothingOS, OxygenOS, Pixel(Standard in Q/S)
+- Custom, MIUI, MyUX, MyUX_V2, NothingOS, OxygenOS, Pixel(Standard size in Q/S)
 - 14 colors
 
 # Screenshots
