@@ -46,7 +46,7 @@
 
 ## v1.1
 - Added light blue, cyan and deep purple colors
-Added Custom theme. Now with 23 options to change size and thickness
+- Added Custom theme. Now with 23 options to change size and thickness
 
 ## v1.2
 - Added support for Android 13
