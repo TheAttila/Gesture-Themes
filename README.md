@@ -12,6 +12,7 @@
 
 # Themes
 - Custom, MIUI, MyUX, MyUX_V2, NothingOS, OxygenOS, Pixel(Standard in Q/S)
+- 14 colors
 
 # Screenshots
 <p align="left">
