@@ -36,3 +36,17 @@
   <img src="https://github.com/TheAttila/Gesture-Themes/blob/master/screenshots/5.png"
 </p>
 
+# Thanks
+- [Zackptg5](https://github.com/Zackptg5) for the MMT-Ex template
+
+- [Topjohnwu](https://github.com/topjohnwu) for the Magisk
+
+- [DanGLES3](https://github.com/DanGLES3) by inspiration 
+
+
+## v1.1
+-Added light blue, cyan and deep purple colors
+Added Custom theme. Now with 23 options to change size and thickness
+
+## v1.2
+Added support for Android 13
