@@ -1,13 +1,13 @@
 # Gesture-Themes - Change the color and/or size of the Android Navigation Gesture Bar 
 
 # Support
-- Only roms
+- Only AOSP Roms
 - Android 10/13
 
 # Installation
-- Make the sick of one of the themes
+- Download one of the themes 
 - Flash in Magisk
-- Follow the inscriptions
+- Follow the Instructions 
 - Reboot
 
 # Themes
