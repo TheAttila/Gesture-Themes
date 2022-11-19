@@ -11,6 +11,6 @@
 - Reboot
 
 # Themes
-- Custom, MIUI, MiUX, MiUX_V2, NothingOS, OxygenOS, Pixel(Standard in Q/S)
+- Custom, MIUI, MyUX, MyUX_V2, NothingOS, OxygenOS, Pixel(Standard in Q/S)
 
 # Screenshots
